@@ -1,0 +1,10 @@
+[window]
+padding = { x=10, y=10 }
+opacity = 0.8
+
+[font]
+normal = { family="Source Code Pro", style="Medium"}
+size = 14
+
+[shell]
+program = "/bin/fish"

@@ -1,0 +1,14 @@
+2024-04-20T05:44:34.067Z 0: 
+
+----------------------------------------------
+2024-04-20T05:44:34.082Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.50"}, modulepath: /home/sigvaldr/.config/discord/0.0.50/modules
+2024-04-20T05:44:34.086Z 2: ✅ webContents.created web1 ""
+2024-04-20T05:44:34.092Z 3: ✅ window.created win1 "discord"
+2024-04-20T05:44:34.311Z 4: ✅ webContents.did-finish-load web1
+2024-04-20T05:44:38.258Z 5: ✅ webContents.created web2 ""
+2024-04-20T05:44:38.262Z 6: ✅ window.created win2 "Discord"
+2024-04-20T05:44:40.561Z 7: ✅ webContents.did-finish-load web2
+2024-04-20T05:44:40.656Z 8: window.close win1
+2024-04-20T05:44:40.737Z 9: webContents.destroyed web1
+2024-04-20T05:44:40.741Z 10: window.closed win1
+2024-04-20T06:25:33.565Z 11: before-quit

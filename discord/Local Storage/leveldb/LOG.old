@@ -1,0 +1,11 @@
+2024/03/06-00:30:50.963 5639 Reusing MANIFEST /home/sigvaldr/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/03/06-00:30:50.963 5639 Recovering log #3
+2024/03/06-00:30:50.977 5639 Level-0 table #3: started
+2024/03/06-00:30:50.989 5639 Level-0 table #3: 3045559 bytes OK
+2024/03/06-00:30:50.993 5639 Delete type=0 #3
+2024/03/06-00:31:51.588 56ad Level-0 table #6: started
+2024/03/06-00:31:51.598 56ad Level-0 table #6: 89507 bytes OK
+2024/03/06-00:31:51.601 56ad Delete type=0 #4
+2024/03/06-00:34:48.076 56ad Level-0 table #8: started
+2024/03/06-00:34:48.095 56ad Level-0 table #8: 3028215 bytes OK
+2024/03/06-00:34:48.097 56ad Delete type=0 #5

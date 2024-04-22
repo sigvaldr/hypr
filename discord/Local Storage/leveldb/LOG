@@ -1,0 +1,21 @@
+2024/04/20-01:44:34.023 9633 Reusing MANIFEST /home/sigvaldr/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/04/20-01:44:34.023 9633 Recovering log #7
+2024/04/20-01:44:34.024 9633 Reusing old log /home/sigvaldr/.config/discord/Local Storage/leveldb/000007.log 
+2024/04/20-01:45:38.393 9634 Level-0 table #11: started
+2024/04/20-01:45:38.404 9634 Level-0 table #11: 120934 bytes OK
+2024/04/20-01:45:38.406 9634 Delete type=0 #7
+2024/04/20-01:45:38.407 9634 Compacting 4@0 + 0@1 files
+2024/04/20-01:45:38.416 9634 Generated table #12@0: 10 keys, 2214727 bytes
+2024/04/20-01:45:38.438 9634 Generated table #13@0: 70 keys, 832395 bytes
+2024/04/20-01:45:38.438 9634 Compacted 4@0 + 0@1 files => 3047122 bytes
+2024/04/20-01:45:38.440 9634 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/04/20-01:45:38.440 9634 Delete type=2 #3
+2024/04/20-01:45:38.440 9634 Delete type=2 #6
+2024/04/20-01:45:38.440 9634 Delete type=2 #8
+2024/04/20-01:45:38.440 9634 Delete type=2 #11
+2024/04/20-01:48:36.801 9633 Level-0 table #15: started
+2024/04/20-01:48:36.825 9633 Level-0 table #15: 3035431 bytes OK
+2024/04/20-01:48:36.828 9633 Delete type=0 #10
+2024/04/20-02:07:15.273 9633 Level-0 table #17: started
+2024/04/20-02:07:15.285 9633 Level-0 table #17: 26137 bytes OK
+2024/04/20-02:07:15.288 9633 Delete type=0 #14
