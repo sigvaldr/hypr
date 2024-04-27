@@ -1,2 +1,3 @@
-2024/03/05-01:54:17.264 4f9 Creating DB /home/sigvaldr/.config/discord/shared_proto_db/metadata since it was missing.
-2024/03/05-01:54:17.269 4f9 Reusing MANIFEST /home/sigvaldr/.config/discord/shared_proto_db/metadata/MANIFEST-000001
+2024/04/20-01:44:40.739 9633 Reusing MANIFEST /home/sigvaldr/.config/discord/shared_proto_db/metadata/MANIFEST-000001
+2024/04/20-01:44:40.739 9633 Recovering log #3
+2024/04/20-01:44:40.739 9633 Reusing old log /home/sigvaldr/.config/discord/shared_proto_db/metadata/000003.log 
