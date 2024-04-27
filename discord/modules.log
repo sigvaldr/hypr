@@ -1648,3 +1648,19 @@
 2024-04-27T01:17:18.380Z [Modules] Installing discord_game_utils@1 from /home/sigvaldr/.config/discord/0.0.51/modules/pending/discord_game_utils-1.zip
 2024-04-27T01:17:18.422Z [Modules] Installing discord_rpc@1 from /home/sigvaldr/.config/discord/0.0.51/modules/pending/discord_rpc-1.zip
 2024-04-27T01:17:18.432Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2024-04-27T02:04:33.825Z [Modules] Modules initializing
+2024-04-27T02:04:33.826Z [Modules] Distribution: remote
+2024-04-27T02:04:33.826Z [Modules] Host updates: enabled
+2024-04-27T02:04:33.826Z [Modules] Module updates: enabled
+2024-04-27T02:04:33.826Z [Modules] Module install path: /home/sigvaldr/.config/discord/0.0.51/modules
+2024-04-27T02:04:33.826Z [Modules] Module installed file path: /home/sigvaldr/.config/discord/0.0.51/modules/installed.json
+2024-04-27T02:04:33.826Z [Modules] Module download path: /home/sigvaldr/.config/discord/0.0.51/modules/pending
+2024-04-27T02:04:34.011Z [Modules] No updates to install
+2024-04-27T02:04:34.011Z [Modules] Checking for host updates.
+2024-04-27T02:04:34.144Z [Modules] Host is up to date.
+2024-04-27T02:04:34.145Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-04-27T02:04:34.170Z [Modules] No module updates available.
+2024-04-27T02:04:35.694Z [Modules] Checking for host updates.
+2024-04-27T02:04:35.759Z [Modules] Host is up to date.
+2024-04-27T02:04:35.759Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-04-27T02:04:35.761Z [Modules] No module updates available.
