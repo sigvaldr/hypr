@@ -1,6 +1,6 @@
 [window]
-w = 451
-h = 498
+w = 931
+h = 1010
 toolbar = True
 statusbar = True
 thumbpane = True
@@ -51,7 +51,11 @@ shortcuts[3] = <Control><Alt>f
 batch[3] = False
 
 [recent]
-num_recent = 1
-num[0] = 44
-urls[0,0] = /home/sigvaldr/Pictures/wallpapers/gura2.png
+num_recent = 3
+num[0] = 66
+urls[0,0] = /home/sigvaldr/Pictures/screenshots/2024-04-26-211417_hyprshot.png
+num[1] = 66
+urls[1,0] = /home/sigvaldr/Pictures/screenshots/2024-04-26-211210_hyprshot.png
+num[2] = 44
+urls[2,0] = /home/sigvaldr/Pictures/wallpapers/gura2.png
 
